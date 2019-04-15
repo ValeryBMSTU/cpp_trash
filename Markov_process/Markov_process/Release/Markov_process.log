@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\programs c++\markov_process\markov_process\main.cpp(165): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  2 of 164 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Markov_process.vcxproj -> D:\Programs C++\Markov_process\Release\Markov_process.exe

@@ -1,0 +1,33 @@
+﻿  Maincpp.cpp
+d:\programs c++\project123\project123\maincpp.cpp(6): error C2065: i: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(6): error C2065: lt: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(6): error C2065: n: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(6): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "i"
+d:\programs c++\project123\project123\maincpp.cpp(6): error C2059: синтаксическая ошибка: ;
+d:\programs c++\project123\project123\maincpp.cpp(6): error C2059: синтаксическая ошибка: )
+d:\programs c++\project123\project123\maincpp.cpp(8): error C2059: синтаксическая ошибка: for
+d:\programs c++\project123\project123\maincpp.cpp(8): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+d:\programs c++\project123\project123\maincpp.cpp(8): error C2065: j: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(8): error C2065: lt: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(8): error C2065: n: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(8): error C2059: синтаксическая ошибка: )
+d:\programs c++\project123\project123\maincpp.cpp(9): error C2065: nbsp: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(9): error C2059: синтаксическая ошибка: ;
+d:\programs c++\project123\project123\maincpp.cpp(9): error C2065: num: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(9): error C2065: i: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(9): error C2065: gt: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(9): error C2429: для функция языка "Инструкции INIT в if/switch" нужен флаг компилятора "/std:c++17"
+d:\programs c++\project123\project123\maincpp.cpp(9): error C2065: j: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(10): error C2065: var: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(10): error C2065: num: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(10): error C2065: i: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(11): error C2065: num: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(11): error C2065: i: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(11): error C2065: j: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(12): error C2065: num: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(12): error C2065: j: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(12): error C2065: var: необъявленный идентификатор
+d:\programs c++\project123\project123\maincpp.cpp(15): error C2059: синтаксическая ошибка: }
+d:\programs c++\project123\project123\maincpp.cpp(15): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+d:\programs c++\project123\project123\maincpp.cpp(17): error C2059: синтаксическая ошибка: }
+d:\programs c++\project123\project123\maincpp.cpp(17): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
